@@ -1,0 +1,23 @@
+{
+  "name": "simple-apk-parser",
+  "version": "0.1.0",
+  "description": "a simple apk parser which outputs package id, label, version code and version name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluswave/simple-apk-parser.git"
+  },
+  "keywords": [
+    "apk",
+    "parser"
+  ],
+  "author": "Pluswave (pluswave@xiaofuxing.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pluswave/simple-apk-parser/issues"
+  },
+  "homepage": "https://github.com/pluswave/simple-apk-parser#readme"
+}
